@@ -1,0 +1,19 @@
+{
+  "name": "holamundohttp",
+  "version": "1.0.0",
+  "description": "Hola Mundo en texto plano usando HTTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelinHdezD/1-Hola-Mundo-con-HTTP.git"
+  },
+  "author": "Angel Hernandez Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelinHdezD/1-Hola-Mundo-con-HTTP/issues"
+  },
+  "homepage": "https://github.com/AngelinHdezD/1-Hola-Mundo-con-HTTP#readme"
+}
